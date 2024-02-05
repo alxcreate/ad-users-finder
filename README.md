@@ -1,5 +1,5 @@
 # AD Users Finder
 
-Generate login and email for domain users
+Program for generating unique usernames for domain users with Active Directory validation.
 
 ![Alt text](Screenshot.png)
